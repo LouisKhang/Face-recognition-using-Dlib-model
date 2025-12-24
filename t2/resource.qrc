@@ -1,0 +1,32 @@
+<RCC>
+  <qresource>
+    <file>image/add student.png</file>
+    <file>image/book-open-reader (1).png</file>
+    <file>image/book-open-reader.png</file>
+    <file>image/calendar-clock.png</file>
+    <file>image/calendar-clock-w.png</file>
+    <file>image/chart-histogram (1).png</file>
+    <file>image/chart-histogram.png</file>
+    <file>image/delete.png</file>
+    <file>image/edit.png</file>
+    <file>image/excel.png</file>
+    <file>image/face-viewfinder (1).png</file>
+    <file>image/face-viewfinder.png</file>
+    <file>image/logo_school.jpg</file>
+    <file>image/logo_school2.jpg</file>
+    <file>image/menu.png</file>
+    <file>image/notes-medical (1).png</file>
+    <file>image/notes-medical.png</file>
+    <file>image/pdf.png</file>
+    <file>image/power (1).png</file>
+    <file>image/power.png</file>
+    <file>image/profile_pic.png</file>
+    <file>image/search.png</file>
+    <file>image/settings (1).png</file>
+    <file>image/settings.png</file>
+    <file>image/sign-out-alt (1).png</file>
+    <file>image/sign-out-alt.png</file>
+    <file>image/workshop (2).png</file>
+    <file>image/workshop.png</file>
+  </qresource>
+</RCC>
